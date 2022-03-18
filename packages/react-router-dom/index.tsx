@@ -409,7 +409,7 @@ export function useLinkClickHandler<E extends Element = HTMLAnchorElement>(
     },
     [location, navigate, path, replaceProp, state, target, to]
   );
-}
+}asdfasdf
 
 /**
  * A convenient wrapper for reading and writing search parameters via the
