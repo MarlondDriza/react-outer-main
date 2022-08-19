@@ -8,6 +8,3 @@ module.exports = babelJest.createTransformer({
   ],
   plugins: ["babel-plugin-dev-expression"]
 });
-asdfadf
-adsfaasd
-asdfasdf
