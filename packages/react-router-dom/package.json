@@ -13,9 +13,5 @@
   "module": "./index.js",
   "types": "./index.d.ts",
   "unpkg": "./umd/react-router-dom.production.min.js",
-  "dependencies": {
-    "react-router": "6.2.1",
-    "history": "^5.2.0"
-  },
- 
+
 }
